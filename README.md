@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning NodeJs and MongoDB
 
-- 👯 I’m looking to collaborate on Projects using HTML, CSS and Javascript in order to improve my coding skills and become a professional programmer in a short future
+- 👯 I’m looking to collaborate on Projects using HTML, CSS and Javascript in order to improve my coding skills and become a professional programmer in a near future
 
 
 
