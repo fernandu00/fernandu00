@@ -2,7 +2,7 @@
 
 - I'm passionate about learning new skills and I've recently started learning to code since I've always loved the tech industry and the magic world of programming!
 
-- 🌱 I’m currently learning NodeJs and MongoDB
+- 🌱 I’m currently learning React,  NodeJs and MongoDB
 
 - 👯 I’m looking to collaborate on Projects using HTML, CSS and Javascript in order to improve my coding skills and become a professional programmer in a near future
 
