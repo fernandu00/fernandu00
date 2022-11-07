@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm passionate about learning new skills and I've recently started learning to code since I've always loved the tech industry and the magic world of programming!
+- I'm passionate about learning new skills and I've recently started learning to code since I've always loved the tech industry and the magical world of programming!
 
 - 🌱 I’m currently learning React,  NodeJs and MongoDB
 
